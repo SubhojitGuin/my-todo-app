@@ -2,8 +2,7 @@
 ## Description:
 The Todo GUI App is a user-friendly application designed to help individuals manage their tasks and to-do lists efficiently. It provides a graphical user interface (GUI) that allows users to easily add, organize, and track their tasks in a visually appealing manner.
 
-![My Todo App](My Todo App.jpg)
-
+![My Todo App](https://github.com/SubhojitGuin/my-todo-app/blob/551efee1127f443f2b0c2aba4245eed06622417a/My%20Todo%20App.jpg)
 ## Key Features:
 **Task Management**: Users can create, edit, and delete tasks within the application.
 
