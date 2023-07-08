@@ -37,6 +37,3 @@ Advanced task statistics and analytics <br>
 
 ## Contributions:
 Contributions to the project are welcome. If you would like to contribute, please follow the guidelines outlined in the project's GitHub repository.
-
-## Acknowledgements:
-We would like to express our gratitude to the open-source community for their contributions and support in developing this project.
