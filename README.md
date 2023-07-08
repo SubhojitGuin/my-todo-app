@@ -15,7 +15,7 @@ The Todo GUI App is a user-friendly application designed to help individuals man
 ## Technologies Used:
 Programming Language: Python <br>
 GUI Framework: PySimpleGUI <br>
-Database: SQLite or any other lightweight database for data storage <br>
+Database: text file <br>
 
 ## Installation and Usage:
 Clone the repository from GitHub.<br>
